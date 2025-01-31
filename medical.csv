@@ -1,0 +1,101 @@
+patient_id,name,ssn,address,insurance_provider,dob,diastolic_bp,systolic_bp,pulse,height,weight,age,age_score,bp_score,pulse_score,bmi_score,health_score
+PID00085,Kara Edwards,XXX-XX-2130,"141 Darren Turnpike, Nashville, TN 37984",HealthPlus,2003-08-01,61,107,80,84.0,226.5,22,0,0,0,0,0
+PID00051,Brenda Johnson,XXX-XX-5463,"303 Ryan Plaza, Nashville, TN 37601",SecureCare,1981-09-15,69,112,96,78.4,184.9,44,0,0,0,0,0
+PID00048,Craig Thomas,XXX-XX-9765,"43572 Andrews Land Apt. 504, Nashville, TN 37090",HealthPlus,2005-11-20,71,132,60,62.1,113.1,20,0,1,0,0,1
+PID00096,Debra Williams,XXX-XX-4952,"9182 Mack Mount Apt. 088, Nashville, TN 37524",MediTrust,2005-04-16,65,111,84,66.8,159.6,20,0,0,0,1,1
+PID00003,Andrea Lopez,XXX-XX-4748,"6906 Michael Trace Apt. 821, Nashville, TN 37555",MediTrust,2004-07-30,74,96,93,81.0,252.2,21,0,0,0,1,1
+PID00002,Keith Reid,XXX-XX-5740,"99661 Dennis Prairie, Nashville, TN 38470",CareGuard,2002-09-17,77,130,69,69.6,134.1,23,0,1,0,0,1
+PID00064,Dawn Kennedy,XXX-XX-4998,"35276 Parker Mountain, Nashville, TN 37589",CareGuard,1996-10-27,86,131,93,72.9,142.1,29,0,1,0,0,1
+PID00033,Kenneth Meyer,XXX-XX-2997,"09117 Margaret Isle, Nashville, TN 37116",HealthPlus,1987-04-03,69,94,55,79.6,195.4,38,0,0,1,0,1
+PID00053,Paul Davis,XXX-XX-5214,"8961 Campos Gardens Suite 367, Nashville, TN 38541",HealthPlus,1975-01-30,79,109,67,72.3,142.6,50,1,0,0,0,1
+PID00027,Theresa Phillips,XXX-XX-3750,"64993 Powell Extension Suite 216, Nashville, TN 37906",HealthPlus,1975-09-07,76,103,62,72.6,147.3,50,1,0,0,0,1
+PID00063,Katherine Fuentes,XXX-XX-8542,"454 Mark Mountain Apt. 874, Nashville, TN 37656",SecureCare,1961-10-27,61,92,60,83.7,204.9,64,1,0,0,0,1
+PID00047,Bradley Clark,XXX-XX-7839,"36634 Shaw Summit, Nashville, TN 38514",MediTrust,2005-02-01,87,90,60,72.7,199.6,20,0,1,0,1,2
+PID00036,Tiffany Johnson,XXX-XX-4050,"26036 Kelly Squares, Nashville, TN 37017",WellnessFirst,2001-03-03,68,139,93,82.9,172.9,24,0,1,0,1,2
+PID00071,Stephanie White,XXX-XX-0158,"58964 Michelle Key Apt. 942, Nashville, TN 38117",WellnessFirst,1997-09-07,75,106,75,77.6,307.0,28,0,0,0,2,2
+PID00017,Robert Diaz,XXX-XX-0114,"6929 Clark Motorway Suite 672, Nashville, TN 38098",WellnessFirst,1997-06-06,72,102,51,67.2,109.5,28,0,0,1,1,2
+PID00061,Melissa Lee,XXX-XX-7687,"30879 Ortega Row Apt. 658, Nashville, TN 37739",WellnessFirst,1995-12-02,78,112,65,62.7,207.9,30,0,0,0,2,2
+PID00083,David Garcia,XXX-XX-1152,"208 Dickson Mission, Nashville, TN 37063",MediTrust,1995-05-23,63,91,74,61.5,178.4,30,0,0,0,2,2
+PID00068,Sharon Davenport,XXX-XX-6333,"41109 Anita Glen Apt. 031, Nashville, TN 37975",WellnessFirst,1993-08-13,78,101,86,73.6,238.8,32,0,0,0,2,2
+PID00039,Anna Fisher,XXX-XX-4460,"33167 Wilson Circles Apt. 514, Nashville, TN 37521",SecureCare,1989-05-13,61,110,72,64.2,175.8,36,0,0,0,2,2
+PID00089,Brandon Foster,XXX-XX-7661,"653 Solis Park Suite 270, Nashville, TN 38129",SecureCare,1989-01-18,61,139,81,62.0,100.5,36,0,1,0,1,2
+PID00025,Sarah Long,XXX-XX-9223,"628 Tracie Centers, Nashville, TN 37315",SecureCare,1969-10-28,66,119,61,72.6,137.4,56,1,0,0,1,2
+PID00044,Courtney Hunter,XXX-XX-1206,"22032 Jordan Trace, Nashville, TN 38267",SecureCare,1966-06-16,75,101,61,65.7,163.4,59,1,0,0,1,2
+PID00019,Jose Roberts,XXX-XX-7669,"554 Floyd Junction, Nashville, TN 38451",MediTrust,1963-03-14,74,130,73,71.5,148.5,62,1,1,0,0,2
+PID00042,Shawn Williams,XXX-XX-5403,"000 Harmon Centers, Nashville, TN 38494",SecureCare,1963-12-02,60,98,61,74.4,137.0,62,1,0,0,1,2
+PID00001,Katelyn Gomez,XXX-XX-4018,"6767 Hall Squares Suite 015, Nashville, TN 38508",WellnessFirst,1962-01-06,81,109,60,81.1,200.1,63,1,1,0,0,2
+PID00074,Stacy Martin,XXX-XX-8508,"60660 Michelle Place Suite 637, Nashville, TN 37828",HealthPlus,1958-11-24,78,104,91,80.0,168.9,67,2,0,0,0,2
+PID00057,Harold Daniels,XXX-XX-2226,"5566 Larson Landing Apt. 749, Nashville, TN 37140",HealthPlus,1951-05-29,62,109,83,82.4,207.6,74,2,0,0,0,2
+PID00081,Mary Rodriguez,XXX-XX-5254,"3849 David Neck Suite 691, Nashville, TN 38352",SecureCare,2004-06-01,62,119,50,67.3,202.9,21,0,0,1,2,3
+PID00028,Crystal Bailey,XXX-XX-1926,"049 Griffin Crossroad Suite 321, Nashville, TN 37666",HealthPlus,2001-05-06,71,132,84,57.1,235.5,24,0,1,0,2,3
+PID00098,Mr. Juan Osborne,XXX-XX-6084,"779 Brittney Wall, Nashville, TN 37291",HealthPlus,1999-06-03,89,126,54,59.1,124.6,26,0,1,1,1,3
+PID00040,Angela Davis,XXX-XX-2061,"8117 Joseph Valleys Suite 802, Nashville, TN 37380",MediTrust,1994-10-09,80,129,72,68.8,275.3,31,0,1,0,2,3
+PID00037,Alex Gonzalez,XXX-XX-0074,"146 Green Ferry, Nashville, TN 37890",MediTrust,1994-11-30,66,134,59,81.7,237.6,31,0,1,1,1,3
+PID00079,Ralph Porter,XXX-XX-5234,"094 Joseph Passage, Nashville, TN 37653",MediTrust,1994-08-29,70,122,98,71.6,248.1,31,0,1,0,2,3
+PID00076,Gregory Anderson DDS,XXX-XX-4613,"6065 Blackwell Alley, Nashville, TN 37159",HealthPlus,1993-05-20,87,122,91,65.4,100.7,32,0,1,0,2,3
+PID00091,Sarah Griffith,XXX-XX-0305,"3214 Victoria River, Nashville, TN 37286",WellnessFirst,1993-07-13,86,139,79,60.7,238.6,32,0,1,0,2,3
+PID00082,Sheena Foster,XXX-XX-8474,"48113 Bailey Ferry Suite 153, Nashville, TN 37137",SecureCare,1989-11-11,86,118,82,57.4,146.9,36,0,1,0,2,3
+PID00030,Micheal Brown,XXX-XX-4042,"24066 David Junctions Suite 447, Nashville, TN 37720",CareGuard,1982-05-06,74,132,71,58.9,169.5,43,0,1,0,2,3
+PID00077,Veronica Price,XXX-XX-6138,"7610 Jennifer Views Apt. 850, Nashville, TN 37128",SecureCare,1980-10-04,80,134,71,63.6,316.1,45,0,1,0,2,3
+PID00060,Christy Torres,XXX-XX-9709,"03732 Tara Square Apt. 286, Nashville, TN 37298",HealthPlus,1979-09-24,62,90,85,60.1,221.5,46,1,0,0,2,3
+PID00100,Patrick Cunningham,XXX-XX-1643,"7028 Anthony Manor, Nashville, TN 37318",SecureCare,1976-08-24,69,95,68,62.4,346.0,49,1,0,0,2,3
+PID00052,John Williams,XXX-XX-3567,"561 Rebecca Path, Nashville, TN 38093",MediTrust,1974-05-20,67,101,84,79.9,314.3,51,1,0,0,2,3
+PID00088,Gwendolyn Ramirez,XXX-XX-4654,"60429 Brown Harbor, Nashville, TN 38420",HealthPlus,1974-07-17,79,119,69,78.3,323.7,51,1,0,0,2,3
+PID00072,Michael Valdez,XXX-XX-9481,"4559 Jerome Roads, Nashville, TN 37151",MediTrust,1969-05-09,64,90,71,61.9,245.3,56,1,0,0,2,3
+PID00069,Charles Griffin,XXX-XX-0248,"159 Bruce Square Apt. 584, Nashville, TN 37261",SecureCare,1966-01-28,87,109,84,76.4,145.5,59,1,1,0,1,3
+PID00086,James Knight MD,XXX-XX-8454,"747 David Point Apt. 884, Nashville, TN 38475",HealthPlus,1965-06-05,62,108,86,57.1,281.7,60,1,0,0,2,3
+PID00013,Jack Wright,XXX-XX-0201,"507 Moss Forks, Nashville, TN 37403",SecureCare,1963-03-15,69,91,82,78.0,263.8,62,1,0,0,2,3
+PID00090,Heidi Payne,XXX-XX-1366,"7202 Haley Inlet, Nashville, TN 38533",CareGuard,1957-02-15,64,100,92,74.8,226.2,68,2,0,0,1,3
+PID00062,Kathleen Hall,XXX-XX-1596,"92229 Green Road, Nashville, TN 37035",CareGuard,1950-07-11,82,132,85,82.1,182.8,75,2,1,0,0,3
+PID00049,Brian Paul,XXX-XX-0823,"02250 Dorothy Spur, Nashville, TN 37756",SecureCare,1938-09-24,72,90,93,76.9,209.7,87,2,0,0,1,3
+PID00029,Christopher Washington,XXX-XX-5211,"07189 Kristin River Apt. 017, Nashville, TN 37031",CareGuard,1938-07-12,84,101,69,58.2,107.6,87,2,1,0,0,3
+PID00014,Lindsay Walker,XXX-XX-7084,"1736 Timothy Flats Suite 786, Nashville, TN 38442",WellnessFirst,1937-09-05,78,103,82,83.8,262.2,88,2,0,0,1,3
+PID00010,Ariel Jones,XXX-XX-8944,"2674 Fernandez Key Apt. 296, Nashville, TN 38587",MediTrust,1934-08-26,72,134,63,71.6,141.0,91,2,1,0,0,3
+PID00084,Melissa Harris,XXX-XX-1493,"44512 Ricardo Way Suite 553, Nashville, TN 38026",CareGuard,1985-12-04,84,140,90,61.8,139.8,40,0,3,0,1,4
+PID00066,Melissa Martin,XXX-XX-8519,"2141 Megan Plain Apt. 586, Nashville, TN 38580",CareGuard,1978-09-19,78,110,55,62.0,181.3,47,1,0,1,2,4
+PID00018,Sarah Johnston,XXX-XX-9221,"181 Wendy Avenue, Nashville, TN 38113",CareGuard,1976-02-25,73,128,75,71.3,259.4,49,1,1,0,2,4
+PID00007,Victoria Mooney,XXX-XX-8729,"63008 Michael Stream, Nashville, TN 37299",CareGuard,1976-01-04,84,107,95,76.4,303.5,49,1,1,0,2,4
+PID00004,Tony Jones,XXX-XX-4782,"5014 Smith Field Apt. 670, Nashville, TN 38388",MediTrust,1974-07-31,69,93,57,60.2,276.2,51,1,0,1,2,4
+PID00041,Susan Medina,XXX-XX-6392,"55780 Payne Terrace Apt. 456, Nashville, TN 38245",SecureCare,1974-08-12,76,132,78,64.1,282.0,51,1,1,0,2,4
+PID00055,Jonathan Lynch,XXX-XX-3552,"2517 Haney Point Suite 682, Nashville, TN 38284",SecureCare,1970-01-26,64,110,51,61.1,263.4,55,1,0,1,2,4
+PID00005,Keith Clark,XXX-XX-6313,"4854 Jon Cape Suite 398, Nashville, TN 38426",HealthPlus,1969-04-11,77,131,71,60.5,303.0,56,1,1,0,2,4
+PID00050,Susan Mcdonald,XXX-XX-5312,"4510 Jasmine Gardens, Nashville, TN 37350",WellnessFirst,1969-02-16,73,132,51,75.4,229.0,56,1,1,1,1,4
+PID00009,John Hartman,XXX-XX-9079,"8010 Sanchez Course Apt. 898, Nashville, TN 37590",MediTrust,1965-12-20,89,112,81,77.0,252.7,60,1,1,0,2,4
+PID00011,Christine Anderson,XXX-XX-6725,"6112 Andrew Plain Suite 215, Nashville, TN 37256",MediTrust,1963-03-29,88,116,80,71.8,116.7,62,1,1,0,2,4
+PID00065,Taylor Robbins,XXX-XX-0613,"392 Wheeler Haven Suite 536, Nashville, TN 38002",SecureCare,1963-11-06,67,91,58,62.9,254.5,62,1,0,1,2,4
+PID00020,Megan Stanley,XXX-XX-9639,"513 Eric Ridges Suite 716, Nashville, TN 38410",HealthPlus,1961-11-19,82,135,74,66.7,345.1,64,1,1,0,2,4
+PID00024,Paul Gordon,XXX-XX-4411,"6512 Webb Wells Suite 209, Nashville, TN 38324",WellnessFirst,1958-07-01,74,132,65,80.9,167.9,67,2,1,0,1,4
+PID00034,Laura Gilmore,XXX-XX-6817,"460 Marilyn Drive Suite 932, Nashville, TN 38100",MediTrust,1955-04-14,64,140,93,79.8,196.2,70,2,2,0,0,4
+PID00092,Micheal Browning,XXX-XX-5455,"2231 James Burg, Nashville, TN 37361",SecureCare,1953-07-04,70,99,87,66.0,284.8,72,2,0,0,2,4
+PID00043,Kathryn Ortega,XXX-XX-5948,"385 Ashley Avenue Apt. 529, Nashville, TN 38249",HealthPlus,1952-11-12,82,93,51,75.2,198.3,73,2,1,1,0,4
+PID00006,Melanie Strickland,XXX-XX-2970,"2106 Joshua Greens Apt. 127, Nashville, TN 37196",CareGuard,1952-06-23,65,118,75,80.3,142.8,73,2,0,0,2,4
+PID00012,Heidi Cooley,XXX-XX-4048,"7678 Robert Land Apt. 380, Nashville, TN 38028",SecureCare,1952-02-02,72,110,89,79.5,131.5,73,2,0,0,2,4
+PID00032,Crystal Schmidt,XXX-XX-2349,"271 Wilkerson Field, Nashville, TN 38150",MediTrust,1944-02-24,90,104,65,81.3,194.9,81,2,2,0,0,4
+PID00023,Ellen Nelson,XXX-XX-5396,"37513 Bonilla Neck Apt. 843, Nashville, TN 38406",CareGuard,1943-01-24,70,134,97,60.2,153.0,82,2,1,0,1,4
+PID00075,Lisa Garcia,XXX-XX-2616,"666 Meagan Lakes, Nashville, TN 37556",CareGuard,1940-02-09,63,111,75,79.1,289.4,85,2,0,0,2,4
+PID00021,Barbara Terry,XXX-XX-5727,"19746 Stephanie Circles Apt. 554, Nashville, TN 37759",CareGuard,1940-10-25,72,110,68,77.1,343.8,85,2,0,0,2,4
+PID00094,James Rodriguez,XXX-XX-9165,"62057 Beard Ferry Apt. 851, Nashville, TN 37284",SecureCare,1939-08-18,70,116,75,81.8,305.8,86,2,0,0,2,4
+PID00016,Aaron Reynolds,XXX-XX-0690,"4549 Acosta Hollow Apt. 977, Nashville, TN 37446",HealthPlus,1935-08-18,66,134,85,65.8,163.7,90,2,1,0,1,4
+PID00022,John Knight,XXX-XX-9071,"64966 Emily Locks Suite 122, Nashville, TN 37214",HealthPlus,1935-02-21,79,92,85,81.5,127.4,90,2,0,0,2,4
+PID00008,Ashley Cohen,XXX-XX-0700,"791 Tracy Burg, Nashville, TN 37591",CareGuard,1985-07-15,75,140,56,65.1,226.6,40,0,2,1,2,5
+PID00054,Michael Hill,XXX-XX-6380,"1253 Gutierrez Springs, Nashville, TN 37233",WellnessFirst,1975-11-01,76,120,52,57.3,285.9,50,1,1,1,2,5
+PID00073,James Martinez,XXX-XX-2194,"89887 Marshall Spring Suite 549, Nashville, TN 38153",WellnessFirst,1967-12-25,81,131,59,71.6,315.5,58,1,1,1,2,5
+PID00038,Nicholas Dixon,XXX-XX-9211,"661 Robin Ports, Nashville, TN 38191",HealthPlus,1958-06-19,76,133,88,76.7,112.9,67,2,1,0,2,5
+PID00046,Shelly Robertson,XXX-XX-4233,"80755 Reyes Course Apt. 785, Nashville, TN 37434",MediTrust,1955-10-06,60,94,56,61.3,185.7,70,2,0,1,2,5
+PID00067,Sara Burgess,XXX-XX-9044,"59805 Walter Mall Suite 668, Nashville, TN 38491",HealthPlus,1952-09-29,67,127,83,57.3,281.0,73,2,1,0,2,5
+PID00015,Melvin West,XXX-XX-8070,"65863 David Loop Suite 788, Nashville, TN 37195",SecureCare,1950-12-26,66,137,60,71.8,325.8,75,2,1,0,2,5
+PID00031,Trevor Burton,XXX-XX-5698,"10908 Nathan Freeway Suite 545, Nashville, TN 37204",MediTrust,1947-04-14,74,113,51,58.9,166.3,78,2,0,1,2,5
+PID00056,Jaime Dougherty,XXX-XX-0480,"8751 Paul Underpass Apt. 291, Nashville, TN 37537",MediTrust,1947-10-24,82,115,74,71.5,250.6,78,2,1,0,2,5
+PID00045,Seth Martin,XXX-XX-0798,"834 Fuller Glens, Nashville, TN 38261",HealthPlus,1945-12-12,90,102,92,81.0,167.5,80,2,2,0,1,5
+PID00097,Lauren Barnes,XXX-XX-4367,"856 Rios Walk Apt. 142, Nashville, TN 38199",HealthPlus,1945-05-28,88,118,84,62.5,248.5,80,2,1,0,2,5
+PID00099,Karen Hubbard,XXX-XX-3504,"344 Wright Centers Suite 256, Nashville, TN 37620",WellnessFirst,1944-09-04,87,118,97,72.0,277.9,81,2,1,0,2,5
+PID00058,Jack George,XXX-XX-8578,"293 Barber Lake Suite 382, Nashville, TN 37305",CareGuard,1940-02-16,80,109,67,77.3,337.9,85,2,1,0,2,5
+PID00059,Samuel Atkinson,XXX-XX-3552,"09599 Bernard Knoll Apt. 481, Nashville, TN 37998",SecureCare,1939-09-12,76,126,84,58.2,150.6,86,2,1,0,2,5
+PID00080,Rachel Rodriguez,XXX-XX-9219,"3959 Cameron Ways Apt. 729, Nashville, TN 37105",HealthPlus,1938-09-02,73,126,72,83.3,318.6,87,2,1,0,2,5
+PID00026,Kimberly Miller,XXX-XX-8053,"82311 Marie Glens, Nashville, TN 37316",SecureCare,1937-12-10,74,110,55,81.0,290.7,88,2,0,1,2,5
+PID00095,Dawn Rodriguez,XXX-XX-5071,"6888 Robinson Inlet, Nashville, TN 37230",CareGuard,1936-12-23,64,133,69,82.6,149.1,89,2,1,0,2,5
+PID00087,Nicole Casey,XXX-XX-3160,"9848 Ray Cliff, Nashville, TN 37392",WellnessFirst,1935-05-05,83,122,82,69.8,258.6,90,2,1,0,2,5
+PID00035,Samantha Burns DDS,XXX-XX-7793,"4042 Bradshaw Trace, Nashville, TN 37874",SecureCare,1954-07-20,61,127,54,64.7,183.4,71,2,1,1,2,6
+PID00070,Mary Schneider,XXX-XX-8800,"0679 Michelle Haven Apt. 999, Nashville, TN 37797",HealthPlus,1945-10-17,85,108,50,68.7,276.3,80,2,1,1,2,6
+PID00093,Ralph Moore,XXX-XX-9884,"3782 Green Knoll, Nashville, TN 37976",WellnessFirst,1938-12-31,83,93,59,80.8,316.5,87,2,1,1,2,6
+PID00078,Sarah Wright,XXX-XX-0837,"222 Scott Greens, Nashville, TN 37948",HealthPlus,1936-04-29,90,138,87,83.4,299.7,89,2,3,0,2,7
